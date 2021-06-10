@@ -1,3 +1,8 @@
+-- ================================================
+-- Procedure to deal with users trying to 
+-- recover their forgot passwords
+-- ================================================
+
 USE [#INVEST]
 
 SET ANSI_NULLS ON

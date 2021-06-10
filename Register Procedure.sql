@@ -1,4 +1,8 @@
-USE [CORRETORA]
+-- ================================================
+-- Procedure to deal with user registration 
+-- ================================================
+
+USE [#INVEST]
 
 SET ANSI_NULLS ON
 GO
